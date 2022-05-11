@@ -25,7 +25,7 @@
     strokeWeight(1);
     stroke(255);
     fill(127);
-    rect(20, 20, this.w, this.h);
+    rect(0, 0, this.w, this.h);
     pop();
   }
 }
